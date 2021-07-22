@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @d1N03L
+- 👀 I’m interested in Unity games development
+- 🌱 I’m currently learning how to create my own game
+- 📫 How to reach me ligromania@mail.ru
